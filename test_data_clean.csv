@@ -1,0 +1,6 @@
+date,amount,type,category,description,region,department
+2024-01-01,5000,revenue,Product Sales,Q1 Sales,North,Sales
+2024-01-02,2500,expense,Marketing,Ad Campaign,South,Marketing
+2024-01-03,7500,revenue,Service Revenue,Consulting,East,Services
+2024-01-04,1500,expense,Office Supplies,Monthly Supplies,West,Administration
+2024-01-05,3200,revenue,Product Sales,Q1 Sales,North,Sales
